@@ -6,7 +6,7 @@
 
     <groupId>io.github.x-englishwordnet</groupId>
     <artifactId>xewn-jaxb</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>XEWN JAXB</name>
     <description>Provides plain old java objects to bind to X-English WordNet XML files.</description>
     <url>https://github.com/x-englishwordnet/xewn-jaxb</url>
